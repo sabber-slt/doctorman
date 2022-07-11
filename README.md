@@ -4,7 +4,7 @@ This is a React native health app bootstrapped with Expo.
 
 ## Features
 
-- 🔥 Next.js for Static Site Generator
+- 🔥 React native health app
 - 🎨 Integrate with Tailwind CSS
 - ✅ React-query for fetching data
 - 🌈 Zustand for state management
